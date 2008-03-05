@@ -12,8 +12,12 @@ To correct this, the goal of vim-vhdl is to provide a better plugin than emacs-v
 
 The main features of this plugin are :
 
+*Done (but with bugs)* :
+
  * indent beautifully the code with ":" and "=>" aligned.
  * when component is instanced, automatically copy all signal interface loaded from the wright file.
+ 
+*ToDo*:
  
 
 = Link =
