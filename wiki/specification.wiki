@@ -23,3 +23,4 @@ The main features of this plugin are :
 = Link =
 
  * Some tips come from [http://www.forum-und-contact.ethz.ch/~andrmuel/vhdl-with-vim.html Andreas Müller]
+ * [http://www.vim.org vim]
