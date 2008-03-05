@@ -17,10 +17,11 @@ The main features of this plugin are :
  * indent beautifully the code with ":" and "=>" aligned.
  * when component is instanced, automatically copy all signal interface loaded from the wright file.
  * Write a template (from ~/.template/vhdl when empty project is open), with author,date and filename as entity name.
+ * write some cools abbreviations (from Andreas for example).
  
 *To Do* :
 
- * write some cools abbreviations (Andreas have some).(*lepingouin.tux* doing it)
+ 
  * When component is connected in architecture body copy all signals and let the user to modify if wanted :
 a component declared as this
 {{{
