@@ -4,7 +4,7 @@
 
 = Introduction =
 
-Designing components with VHDL language is very verbose. Then lot of declaration and connections can done automatically with a great editor and this plugin. Unfortunately only Emacs has a good plugin to write VHDL code ... it's bad. 
+Designing component with VHDL language is very verbose. Then lot of declarations and connections can done automatically with a great editor and his plugin. Unfortunately only Emacs has a good plugin to write VHDL code ... it's bad. 
 
 To correct this, the goal of vim-vhdl is to provide a better plugin than emacs-vhdl mode because nothing can be better than vim ;-) 
 
@@ -15,3 +15,7 @@ The main features of this plugin are :
  * indent beautifully the code with ":" and "=>" aligned.
  * when component is instanced, automatically copy all signal interface loaded from the wright file.
  
+
+= Link =
+
+ * Some tips come from [http://www.forum-und-contact.ethz.ch/~andrmuel/vhdl-with-vim.html Andreas Müller]
