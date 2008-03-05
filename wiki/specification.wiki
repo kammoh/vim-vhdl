@@ -17,7 +17,7 @@ The main features of this plugin are :
  * indent beautifully the code with ":" and "=>" aligned.
  * when component is instanced, automatically copy all signal interface loaded from the wright file.
  
-*ToDo*:
+*To Do* :
  
 
 = Link =
