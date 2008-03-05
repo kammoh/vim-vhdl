@@ -1,10 +1,12 @@
 #summary Specification for vim-vhdl plugin
 #labels Phase-Requirements
 
+
 = Introduction =
 
-Add your content here.
+Designing components with VHDL language is very verbose. Then lot of declaration and connections can done automatically with a great editor and this plugin. Unfortunately only Emacs has a good plugin to write VHDL code it's bad. 
 
+To correct this, the goal of vim-vhdl is to provide a better plugin than emacs-vhdl mode because nothing can be better than vim ;-) 
 
 = Details =
 
