@@ -32,7 +32,22 @@ a component declared as this
           );
 }}}
 
-in the architecture 
+in the architecture will be used in the architecture body when we map port 
+{{{
+      con_littlecomp : littlecomp
+       port map (
+}}}
+at this moment copy signal name like following :
+{{{
+      con_littlecomp : littlecomp
+       port map (
+                clk => clk,
+                A   => A,
+                B   => B,
+                C   => C
+                 );
+}}}
+The user will modify right signal if necessary.
  
 
 = Link =
