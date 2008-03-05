@@ -49,7 +49,7 @@ at this moment copy signal name like following :
 }}}
 The user will modify right signal if necessary.
  
- * Write a template (from ~/.template/ when empty project is open) (*lepingouin.tux*)
+ * Write a template (from ~/.template/vhdl when empty project is open) (*lepingouin.tux*)
 
 = Link =
 
