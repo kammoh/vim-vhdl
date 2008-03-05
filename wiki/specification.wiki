@@ -16,6 +16,7 @@ The main features of this plugin are :
 
  * indent beautifully the code with ":" and "=>" aligned.
  * when component is instanced, automatically copy all signal interface loaded from the wright file.
+ * Write a template (from ~/.template/vhdl when empty project is open), with author,date and filename as entity name.
  
 *To Do* :
 
@@ -49,8 +50,7 @@ at this moment copy signal name like following :
 }}}
 The user will modify right signal if necessary.
  
- * Write a template (from ~/.template/vhdl when empty project is open) (*lepingouin.tux*)
-
+ 
 = Link =
 
  * Some tips come from [http://www.forum-und-contact.ethz.ch/~andrmuel/vhdl-with-vim.html Andreas Müller]
